@@ -1,0 +1,8 @@
+
+body {
+    font-family: var(--fuentePrincipal);
+    font-size: 0.7rem;
+    line-height: 1.8;
+    background-color: #b1bed1;
+    color: #fff;
+  }
